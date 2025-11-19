@@ -33,8 +33,8 @@
         { "label": "-", "row": 1, "col": 11, "x": 11, "y": 1 },
         { "label": "=", "row": 1, "col": 12, "x": 12, "y": 1 },
         { "label": "`", "row": 1, "col": 13, "x": 13, "y": 1 },
-        { "label": "Bksp", "row": 1, "col": 13, "x": 13, "y": 1 },
-        { "label": "Mod1", "row": 1, "col": 14, "x": 15, "y": 1 },
+        { "label": "Bksp", "row": 1, "col": 14, "x": 14, "y": 1 },
+        { "label": "Mod1", "row": 1, "col": 15, "x": 15, "y": 1 },
 
         { "label": "Tab", "row": 2, "col": 0, "x": 0, "y": 2, "w": 1.5 },
         { "label": "Q", "row": 2, "col": 1, "x": 1.5, "y": 2 },
