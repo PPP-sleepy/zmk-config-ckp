@@ -82,9 +82,9 @@
         { "label": "Up", "row": 4, "col": 13, "x": 14, "y": 4},
         { "label": "Mod4", "row": 4, "col": 14, "x": 15, "y": 4},
 
-        { "label": "LCtrl", "row": 5, "col": 1, "x": 0, "y": 5, "w":1.25 },
-        { "label": "GUI", "row": 5, "col": 2, "x": 1.25, "y": 5, "w":1.25 },
-        { "label": "LAlt", "row": 5, "col": 3, "x": 2.5, "y": 5, "w":1.25 },
+        { "label": "LCtrl", "row": 5, "col": 0, "x": 0, "y": 5, "w":1.25 },
+        { "label": "GUI", "row": 5, "col": 1, "x": 1.25, "y": 5, "w":1.25 },
+        { "label": "LAlt", "row": 5, "col": 2, "x": 2.5, "y": 5, "w":1.25 },
         { "label": "Space", "row": 5, "col": 7, "x": 3.75, "y": 5, "w":6.25 },
         { "label": "RAlt", "row": 5, "col": 10, "x": 10, "y": 5},
         { "label": "Fn", "row": 5, "col": 11, "x": 11, "y": 5},
