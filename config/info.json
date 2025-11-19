@@ -19,7 +19,7 @@
         { "label":    "F12", "row": 0, "col": 12, "x":    12, "y": 0 },
         { "label":  "PSCRN", "row": 0, "col": 13, "x":    13, "y": 0 },
         { "label":    "INS", "row": 0, "col": 14, "x":    14, "y": 0 },
-        { "label":   "Mod0", "row": 0, "col": 15, "x":    15, "y": 0 },
+        { "label":   "DEL", "row": 0, "col": 15, "x":    15, "y": 0 },
 
         { "label":  "EN/JP", "row": 1, "col":  0, "x":     0, "y": 1 },
         { "label":      "1", "row": 1, "col":  1, "x":     1, "y": 1 },
@@ -36,7 +36,7 @@
         { "label":      "=", "row": 1, "col": 12, "x":    12, "y": 1 },
         { "label":      "`", "row": 1, "col": 13, "x":    13, "y": 1 },
         { "label":   "Bksp", "row": 1, "col": 14, "x":    14, "y": 1 },
-        { "label":   "Mod1", "row": 1, "col": 15, "x":    15, "y": 1 },
+        { "label":   "HOME", "row": 1, "col": 15, "x":    15, "y": 1 },
 
         { "label":    "Tab", "row": 2, "col":  0, "x":     0, "y": 2, "w":  1.5 },
         { "label":      "Q", "row": 2, "col":  1, "x":   1.5, "y": 2 },
@@ -51,7 +51,7 @@
         { "label":      "P", "row": 2, "col": 10, "x":  10.5, "y": 2 },
         { "label":      "[", "row": 2, "col": 11, "x":  11.5, "y": 2 },
         { "label":      "]", "row": 2, "col": 12, "x":  12.5, "y": 2 },
-        { "label":   "Mod2", "row": 2, "col": 15, "x":    15, "y": 2 },
+        { "label":   "END", "row": 2, "col": 15, "x":    15, "y": 2 },
 
         { "label":   "Caps", "row": 3, "col":  0, "x":     0, "y": 3, "w": 1.75 },
         { "label":      "A", "row": 3, "col":  1, "x":  1.75, "y": 3 },
@@ -67,7 +67,7 @@
         { "label":      "'", "row": 3, "col": 11, "x": 11.75, "y": 3 },
         { "label":      "/", "row": 3, "col": 12, "x": 12.75, "y": 3, "w":    1 },
         { "label":  "Enter", "row": 3, "col": 14, "x": 13.75, "y": 2, "w": 1.25, "h": 2 },
-        { "label":   "Mod3", "row": 3, "col": 15, "x":    15, "y": 3 },
+        { "label":   "PGUP", "row": 3, "col": 15, "x":    15, "y": 3 },
 
         { "label": "LShift", "row": 4, "col":  0, "x":     0, "y": 4, "w": 2.25 },
         { "label":      "Z", "row": 4, "col":  2, "x":  2.25, "y": 4 },
@@ -82,7 +82,7 @@
         { "label":      "/", "row": 4, "col": 11, "x": 11.25, "y": 4 },
         { "label": "RShift", "row": 4, "col": 12, "x": 12.25, "y": 4, "w": 1.75 },
         { "label":     "Up", "row": 4, "col": 14, "x":    14, "y": 4 },
-        { "label":   "Mod4", "row": 4, "col": 15, "x":    15, "y": 4 },
+        { "label":   "PGDN", "row": 4, "col": 15, "x":    15, "y": 4 },
 
         { "label":  "LCtrl", "row": 5, "col":  0, "x":     0, "y": 5, "w": 1.25 },
         { "label":    "GUI", "row": 5, "col":  1, "x":  1.25, "y": 5, "w": 1.25 },
