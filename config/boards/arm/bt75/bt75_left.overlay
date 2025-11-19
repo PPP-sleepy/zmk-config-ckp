@@ -1,0 +1,3 @@
+/* boards/arm/bt75/bt75_left.overlay */
+
+#include <zmk/snippets/studio-rpc-usb-uart.dtsi>
