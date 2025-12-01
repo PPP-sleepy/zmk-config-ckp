@@ -32,12 +32,12 @@
 
         raise {
             bindings = <
-&bootloader  &bl BL_DEC  &bl BL_INC  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp K_MUTE  &kp C_VOL_DN     &kp C_VOL_UP     &kp LC(K_CALC)  &trans           &bl BL_TOG
-&kp ESC      &kp F1      &kp F2      &kp F3  &kp F4  &kp F5  &kp F6  &kp F7  &kp F8  &kp F9  &kp F10     &kp F11          &kp F12          &bl BL_TOG      &rgb_ug RGB_TOG  &trans
-&trans       &trans      &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp SLCK    &kp PAUSE_BREAK  &rgb_ug RGB_HUI                                   &trans
-&trans       &trans      &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans           &kp INT_YEN                      &rgb_ug RGB_HUD  &trans
-&trans                   &trans      &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans      &trans           &trans                           &kp PG_UP        &trans
-&bt BT_PRV   &bt BT_NXT  &trans                              &trans                          &trans      &trans           &trans           &kp HOME        &kp PG_DN        &kp END
+&bootloader  &bl BL_DEC  &bl BL_INC  &trans  &trans  &trans  &trans  &kp C_PREV  &kp C_PLAY  &kp C_NEXT  &kp K_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &kp LC(K_CALC)  &trans           &bl BL_TOG
+&kp ESC      &kp F1      &kp F2      &kp F3  &kp F4  &kp F5  &kp F6  &kp F7      &kp F8      &kp F9      &kp F10     &kp F11       &kp F12       &trans          &trans           &trans
+&trans       &trans      &trans      &trans  &trans  &trans  &trans  &trans      &trans      &trans      &kp SLCK    &trans        &trans                                         &trans
+&trans       &trans      &trans      &trans  &trans  &trans  &trans  &trans      &trans      &trans      &trans      &trans        &kp INT_YEN                   &rgb_ug RGB_HUD  &trans
+&trans                   &trans      &trans  &trans  &trans  &trans  &trans      &trans      &trans      &trans      &trans        &trans                        &kp PG_UP        &trans
+&bt BT_PRV   &bt BT_NXT  &trans                              &trans                                      &trans      &trans        &trans        &kp HOME        &kp PG_DN        &kp END
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
