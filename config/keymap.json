@@ -19,7 +19,7 @@
       "&ext_power EP_TOG ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans   ", "&trans   ", "&trans  ", "&trans ", "&trans ", "&trans ", "&trans",
       "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ",  "&trans",
       "&trans    ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans  ", "&trans   ","&kp INT_YEN ", "&trans ", "&trans",
-      "&kp C_PREV ", "&kp C_VOL_DN ", "&kp C_VOL_UP ", "&kp C_MUTE ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&kp END ", "&kp PG_DN  ", "&kp C_NEXT ", "&trans ", "&bl BL_INC",
+      "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans  ", "&kp PG_UP ", "&trans",
       "&bt BT_PRV ", "&bt BT_NXT  ", "&trans              ", "&trans                            ", "&trans   ", "&trans  ", "&bt BT_CLR ", "&trans ", "&trans ", "&bl BL_DEC"
     ]
   ]
