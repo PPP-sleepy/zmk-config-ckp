@@ -18,7 +18,7 @@
       "&bootloader ", "&bl BL_DEC ", "&bl BL_INC ", "&&kp LG(TAB) ", "&trans ", "&trans ", "&kp LG(L) ", "&kp C_PREV ", "&kp C_PLAY ", "&kp C_NEXT ", "&kp K_MUTE ", "&kp C_VOL_DN ", "&kp C_VOL_UP ", "&kp LC(K_CALC) ", "&trans ", "&bl BL_TOG",
       "&ext_power EP_TOG ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans   ", "&trans   ", "&trans  ", "&trans ", "&trans ", "&trans ", "&trans",
       "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ",  "&trans",
-      "&trans    ", "&kp LEFT ", "&kp DOWN ", "&kp RIGHT ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&kp HOME  ", "&kp PG_UP   ","&reset ", "&bootloader ", "&rgb_ug RGB_HUD",
+      "&trans    ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans  ", "&trans   ","&kp INT_YEN ", "&trans ", "&trans",
       "&kp C_PREV ", "&kp C_VOL_DN ", "&kp C_VOL_UP ", "&kp C_MUTE ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&trans ", "&kp END ", "&kp PG_DN  ", "&kp C_NEXT ", "&trans ", "&bl BL_INC",
       "&bt BT_PRV ", "&bt BT_NXT  ", "&trans              ", "&trans                            ", "&trans   ", "&trans  ", "&bt BT_CLR ", "&trans ", "&trans ", "&bl BL_DEC"
     ]
