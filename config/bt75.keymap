@@ -32,12 +32,12 @@
 
         raise {
             bindings = <
-&bootloader        &bl BL_DEC  &bl BL_INC  &kp LG(TAB)  &trans  &trans  &kp LG(L)  &kp C_PREV  &kp C_PLAY  &kp C_NEXT  &kp K_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &kp LC(K_CALC)  &trans     &bl BL_TOG
-&ext_power EP_TOG  &trans      &trans      &trans       &trans  &trans  &trans     &trans      &trans      &trans      &trans      &trans        &trans        &trans          &trans     &trans
-&trans             &trans      &trans      &trans       &trans  &trans  &trans     &trans      &trans      &trans      &trans      &trans        &trans                                   &trans
-&trans             &trans      &trans      &trans       &trans  &trans  &trans     &trans      &trans      &trans      &trans      &trans        &kp INT_YEN                   &trans     &trans
-&trans                         &trans      &trans       &trans  &trans  &trans     &trans      &trans      &trans      &trans      &trans        &trans                        &kp PG_UP  &trans
-&bt BT_PRV         &bt BT_NXT  &trans                                   &trans                                         &trans      &trans        &trans        &kp HOME        &kp PG_DN  &kp END
+&bootloader        &bl BL_DEC  &bl BL_INC  &kp LG(TAB)  &trans  &trans  &kp LG(L)  &kp C_PREV  &kp C_PLAY  &kp C_NEXT  &kp K_MUTE  &kp C_VOL_DN  &kp C_VOL_UP  &kp K_CALC  &trans     &bl BL_TOG
+&ext_power EP_TOG  &trans      &trans      &trans       &trans  &trans  &trans     &trans      &trans      &trans      &trans      &trans        &trans        &trans      &trans     &trans
+&trans             &trans      &trans      &trans       &trans  &trans  &trans     &trans      &trans      &trans      &trans      &trans        &trans                               &trans
+&trans             &trans      &trans      &trans       &trans  &trans  &trans     &trans      &trans      &trans      &trans      &trans        &kp INT_YEN               &trans     &trans
+&trans                         &trans      &trans       &trans  &trans  &trans     &trans      &trans      &trans      &trans      &trans        &trans                    &kp PG_UP  &trans
+&bt BT_PRV         &bt BT_NXT  &trans                                   &trans                                         &trans      &trans        &trans        &kp HOME    &kp PG_DN  &kp END
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
